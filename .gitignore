@@ -1,0 +1,5 @@
+build
+\os1
+.vscode
+*.obj
+*.pdb
